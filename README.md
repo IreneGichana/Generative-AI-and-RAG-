@@ -41,10 +41,10 @@ By combining semantic search with a large language model (LLM), the system gener
 
 ## Example Usage
 **Input:**  
-`Summarize the key points of this document in a paragraph of 200 words.`  
+`Summarize my CV in 3 sentences.`  
 
 **Output:**  
-`Skilled in analyzing large datasets, identifying trends, and providing actionable insights to support business decision-making. Eager to contribute analytical and problem-solving skills to dynamic, data-driven teams.`  
+`Results-driven Data Analyst with 2+ years of experience in data analysis, reporting, and AI-driven solutions. Strong foundation in statistics, Python, R, SQL, and machine learning, complemented by hands-on work with generative AI. Committed to delivering clear, data-driven solutions in fast-paced, data-centric environments.`  
 
 ---
 
